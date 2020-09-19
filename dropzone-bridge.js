@@ -26,6 +26,7 @@
 //   - Assumption that there is only one file upload box per view
 //   - TODO - test if this work with >1 upload box per scene (e.g. multiple views all with inputs)
 //   - Using the Object API is insecure - it exposes your API key. It would be nice to remap this to the view API
+// Minor todo - the record browser within the Knack builder shows all uploaded images as "broken thumbnail". Not sure what is wrong or what I need to fix
 
 // The view you want to replace the file/image upload with a bulk
 // file/image upload on
